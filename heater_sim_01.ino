@@ -82,8 +82,7 @@ void loop() {
     }
   //print(Tc)
    Serial.println(Tc);
-
-    // say what you got:
+   // say what you got:
     //analogWrite(9,dec);
   }
 }
